@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Performance optimization for snapshots from Oracle databases"
-date:   2024-11-20
+date:   2025-01-12
 tags: [ debezium, oracle, performance ]
+author: ruettere
 ---
 
 Hello everyone, I’m René, data engineer at a Swiss insurance company.
